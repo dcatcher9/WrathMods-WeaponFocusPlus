@@ -69,6 +69,7 @@
     "Quarterstaff",
     "Sai",
     "Shuriken",
+    "Dagger",
     "Siangham"
   ],
   "Natural": [
@@ -99,6 +100,7 @@
   ],
   "Thrown": [
     "Bomb",
+    "Dagger",
     "Dart",
     "Javelin",
     "Sling",
